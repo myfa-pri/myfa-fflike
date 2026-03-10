@@ -1,3 +1,9 @@
-{"token": "YOUR_FIRST_ME_TOKEN_HERE"},
-  {"token": "YOUR_SECOND_ME_TOKEN_HERE"}
-]
+{
+    "token": "your_first_token_here"
+  },
+  {
+    "token": "your_second_token_here"
+  },
+  {
+    "token": "your_third_token_here"
+  }
