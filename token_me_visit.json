@@ -1,9 +1,7 @@
 {
-    "token": "your_first_token_here"
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjQ2Mjg3MTc1MDcsInJlZ2lvbiI..."
   },
   {
-    "token": "your_second_token_here"
-  },
-  {
-    "token": "your_third_token_here"
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.another_super_long_token_string_here..."
   }
+]
